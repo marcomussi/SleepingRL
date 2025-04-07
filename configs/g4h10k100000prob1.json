@@ -1,1 +1,0 @@
-{"grid": 4, "H": 10, "K": 100000, "no_hole_prob": 1, "alg_lst": ["SleUCBVI", "UCBVI"], "n_trials": 4, "n_cores": 4}
